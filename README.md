@@ -81,7 +81,7 @@ The script commits and pushes only changed or added files with the `.java` exten
 
 ## Automatic Git Backup
 
-When this workspace is opened in VS Code, [autopush.ps1](./autopush.ps1) is launched through [.vscode/tasks.json](./.vscode/tasks.json). It checks for Git changes every 60 seconds and pushes them to `origin/main`.
+When this workspace is opened in VS Code, [autopush.ps1](./autopush.ps1) is launched through [.vscode/tasks.json](./.vscode/tasks.json). It watches this folder and its subfolders for file changes, then commits and pushes after the save activity settles.
 
 The task is silent and does not reveal or focus the terminal. No commit is created when the workspace is unchanged.
 
