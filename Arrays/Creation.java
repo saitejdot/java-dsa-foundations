@@ -5,6 +5,8 @@ public class Creation {
     {
         Scanner sc=new Scanner(System.in);
 
+        System.out.print("Enter size of the array: ");
+
         int n=sc.nextInt();
         
         int[] arr=new int[n];
