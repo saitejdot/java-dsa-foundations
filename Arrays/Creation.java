@@ -6,7 +6,8 @@ public class Creation {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int[] arr=new int[n];
-        int position=sc.nextInt
+        int position=sc.nextInt();
+        
 
     }
     
