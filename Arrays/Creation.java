@@ -5,6 +5,7 @@ public class Creation {
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
+        System.out.print("Enter Values: ");
         int[] arr=new int[n];
 
         System.out.print("Enter Values: ");
