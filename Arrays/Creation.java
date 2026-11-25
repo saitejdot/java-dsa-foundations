@@ -7,7 +7,7 @@ public class Creation {
         int n=sc.nextInt();
         int[] arr=new int[n];
         int position=sc.nextInt();
-        
+        int value=sc.
 
     }
     
