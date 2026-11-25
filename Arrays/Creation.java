@@ -13,7 +13,7 @@ public class Creation {
             arr[i]=arr[i-1];
 
         }
-        arr[]
+        arr[position]=value;
 
     }
     
