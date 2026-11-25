@@ -7,7 +7,7 @@ public class Creation {
         int n=sc.nextInt();
         int[] arr=new int[n];
 
-        System.out.print("Before: ");
+        System.out.print("Enter Values");
         for(int i=0;i<n;i++){
             System.out.println(arr[i]);
         }
