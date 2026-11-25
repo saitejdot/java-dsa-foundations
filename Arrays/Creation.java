@@ -31,7 +31,7 @@ public class Creation {
 
         }
         arr[position]=value;
-        n++;
+        //n++;
 
         System.out.print("After: ");
         for(int i=0;i<n;i++){
