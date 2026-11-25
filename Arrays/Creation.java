@@ -10,8 +10,10 @@ public class Creation {
         int value=sc.nextInt();
 
         for(int i=n;i>position;i--){
-            arr[i]=arr[i-1]
+            arr[i]=arr[i-1];
+
         }
+        arr[]
 
     }
     
