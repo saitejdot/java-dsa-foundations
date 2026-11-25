@@ -18,6 +18,8 @@ public class Creation {
         for(int i=0;i<n;i++){
             System.out.print(arr[i]+ " ");
         }
+
+         System.out.print("Enter Values: ");
         int position=sc.nextInt();
         int value=sc.nextInt();
 
