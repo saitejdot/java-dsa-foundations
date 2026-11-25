@@ -5,7 +5,7 @@ public class Creation {
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
-        int arr
+        int[] arr=new
 
     }
     
