@@ -4,6 +4,7 @@ public class ArrayList {
         ArrayList<Integer> list=new ArrayList<>();
         list.add(54);
         
+
     }
 
     
