@@ -9,6 +9,8 @@ public class Creation {
         int position=sc.nextInt();
         int value=sc.nextInt();
 
+        for()
+
     }
     
 }
