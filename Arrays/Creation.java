@@ -9,7 +9,9 @@ public class Creation {
         int position=sc.nextInt();
         int value=sc.nextInt();
 
-        for(int i=n;i>position)
+        for(int i=n;i>position;i--){
+            
+        }
 
     }
     
