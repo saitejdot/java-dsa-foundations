@@ -1,4 +1,4 @@
-import java.Util.Scanner;
+import java.util.Scanner;
 
 public class Creation {
     public static void main(String args[])
