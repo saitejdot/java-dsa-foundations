@@ -35,7 +35,7 @@ public class Creation {
 
         System.out.print("After: ");
         for(int i=0;i<n;i++){
-            System.out.print(arr[i]);
+            System.out.print(arr[i]+" ");
         }
 
     }
