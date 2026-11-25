@@ -10,7 +10,7 @@ public class Creation {
 
         System.out.print("Enter Values: ");
         for(int i=0;i<n;i++){
-            
+            arr[]
             System.out.println(arr[i]);
         }
 
