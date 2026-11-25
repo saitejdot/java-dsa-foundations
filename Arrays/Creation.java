@@ -7,7 +7,7 @@ public class Creation {
         int n=sc.nextInt();
         int[] arr=new int[n];
 
-        System.out.println("Before: ")
+        System.out.print("Before: ")
         int position=sc.nextInt();
         int value=sc.nextInt();
 
