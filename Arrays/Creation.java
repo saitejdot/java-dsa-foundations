@@ -4,6 +4,7 @@ public class Creation {
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
+        
         int n=sc.nextInt();
         System.out.print("Enter size of the array: ");
         int[] arr=new int[n];
@@ -21,7 +22,7 @@ public class Creation {
 
          System.out.print("Enter position: ");
         int position=sc.nextInt();
-         System.out.print("Enter Values: ");
+         System.out.print("Enter Value: ");
         int value=sc.nextInt();
 
         for(int i=n;i>position;i--){
