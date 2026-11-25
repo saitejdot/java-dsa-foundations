@@ -19,7 +19,7 @@ public class Creation {
             System.out.print(arr[i]+ " ");
         }
 
-         System.out.print("Enter Values: ");
+         System.out.print("Enter position: ");
         int position=sc.nextInt();
         int value=sc.nextInt();
 
