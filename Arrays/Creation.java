@@ -25,7 +25,7 @@ public class Creation {
         int position=sc.nextInt();
          System.out.print("Enter Value: ");
         int value=sc.nextInt();
-
+        
         for(int i=n-1;i>position;i--){
             arr[i]=arr[i-1];
 
