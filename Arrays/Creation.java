@@ -9,7 +9,7 @@ public class Creation {
 
         System.out.print("Before: ");
         for(int i=0;i<n;i++){
-            System.out.println(arr[])
+            System.out.println(arr[i]);
         }
         int position=sc.nextInt();
         int value=sc.nextInt();
@@ -20,6 +20,11 @@ public class Creation {
         }
         arr[position]=value;
         n++;
+
+        System.out.print("Before: ");
+        for(int i=0;i<n;i++){
+            System.out.println(arr[i]);
+        }
 
     }
     
