@@ -8,7 +8,7 @@ public class Creation {
         System.out.print("Enter size of the array: ");
         int n=sc.nextInt();
         
-        int[] arr=new int[n];
+        int[] arr=new int[n+1];
 
         System.out.print("Enter Values: ");
         for(int i=0;i<n;i++){
